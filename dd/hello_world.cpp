@@ -10,3 +10,4 @@ main()
   std::cout << "Hello world from " << name << "!" << endl; // Вывод сообщения
   return 0;
 }
+//изменения в пункте 4
