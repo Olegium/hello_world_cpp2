@@ -9,3 +9,4 @@ int main() {
     cout << "Hello world from " << name << "!" << endl;
     return 0;
 }
+//изменения пункт 4
